@@ -1,0 +1,59 @@
+{
+	"info": {
+		"_postman_id": "43aafb88-5035-4706-9fcf-896caa7cafc1",
+		"name": "UrlShortenerSampleQueries",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "21052637"
+	},
+	"item": [
+		{
+			"name": "https://localhost:5001/urls/addUrl",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"Url\": \"https://payroc.com/\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:5001/urls/addUrl",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"urls",
+						"addUrl"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:5001/urls/8BarPA",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:5001/urls/2YPl4z",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"urls",
+						"2YPl4z"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{1AB018AF-330B-49E8-815B-F69C0D6694A2}|Default">
+  <MonoDevelop.Ide.ItemProperties.UrlShortener PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UrlShortener/Properties/launchSettings.json">
+    <Files>
+      <File FileName="UrlShortener/Controllers/UrlControler.cs" Line="26" Column="1" />
+      <File FileName="UrlShortener/Startup.cs" />
+      <File FileName="UrlShortener/Properties/launchSettings.json" Line="25" Column="48" />
+      <File FileName="UrlShortener/Services/UrlService.cs" />
+      <File FileName="UrlShortener/MongoDb/IUrlDal.cs" />
+      <File FileName="UrlShortener/MongoDb/UrlDal.cs" />
+      <File FileName="UrlShortener/Program.cs" />
+      <File FileName="UrlShortener/appsettings.json" />
+      <File FileName="UrlShortener/Options/UrlDatabaseOptions.cs" />
+      <File FileName="UrlShortener/Models/GetUrlByShortenedUrlResponse.cs" />
+      <File FileName="UrlShortener/Models/CreateUrlResponse.cs" />
+      <File FileName="UrlShortener/MongoDb/Url.cs" />
+      <File FileName="UrlShortener/Services/IUrlService.cs" />
+      <File FileName="UrlShortener/ShortUrlGenerator/IShortUrlGenerator.cs" />
+      <File FileName="UrlShortener/ShortUrlGenerator/ShortUrlGenerator.cs" />
+      <File FileName="UrlShortener/Models/CreateUrlRequest.cs" />
+      <File FileName="UrlShortener/Validation/IStringValidator.cs" />
+      <File FileName="UrlShortener/Validation/StringValidator.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UrlShortener" expanded="True">
+            <Node name="UrlShortener" expanded="True" selected="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/matthewmcquillan/Desktop/UrlShortener/UrlShortener/UrlShortener/Controllers/UrlControler.cs" relfile="UrlShortener/Controllers/UrlControler.cs" line="53" column="1" />
+      <Breakpoint file="/Users/matthewmcquillan/Desktop/UrlShortener/UrlShortener/UrlShortener/Services/UrlService.cs" relfile="UrlShortener/Services/UrlService.cs" line="34" column="1" />
+      <Breakpoint file="/Users/matthewmcquillan/Desktop/UrlShortener/UrlShortener/UrlShortener/Controllers/UrlControler.cs" relfile="UrlShortener/Controllers/UrlControler.cs" line="73" column="1" />
+      <Breakpoint file="/Users/matthewmcquillan/Desktop/UrlShortener/UrlShortener/UrlShortener/PageFunctions.js" relfile="UrlShortener/PageFunctions.js" line="4" column="1" />
+      <Breakpoint file="/Users/matthewmcquillan/Desktop/UrlShortener/UrlShortener/UrlShortenerSite/Controllers/HomeController.cs" relfile="UrlShortenerSite/Controllers/HomeController.cs" line="52" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
